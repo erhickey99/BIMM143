@@ -12,7 +12,7 @@ Class 8- [Unsupervised Learning Analysis of Human Breast Cancer Cells](https://g
 
 Class 9- [Structural Bioinformatics (Pt. 1)](https://github.com/erhickey99/bimm143/blob/main/class10/Class%2010_%20Structural%20Bioinformatics%20(Pt.1).pdf)
 
-Class 10- [Exploratory Analysis of Halloween Candy]()
+Class 10- [Exploratory Analysis of Halloween Candy](https://github.com/erhickey99/bimm143/blob/main/class09/Class%209_%20Halloween%20Mini%20Project.pdf)
 
 Class 11- [Protein Structure Prediction with AlphaFold](https://github.com/erhickey99/bimm143/blob/main/class11/class11.md)
 
